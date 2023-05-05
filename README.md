@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErinTUDelft
 - 👀 I’m interested in Machine learning/reinforcement learning, becoming a better programmer
-- 🌱 I’m currently learning how to use github, and matlab
+- 🌱 I’m currently trying to improve in PyTorch, C++
 - 💞️ I’m looking to collaborate on cool drone projects
 - 📫 How to reach me Erinl@dsda.nl
 
