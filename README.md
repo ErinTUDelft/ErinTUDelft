@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErinTUDelft
 - 👀 I’m interested in Deep Learning, becoming a better programmer
 - 🌱 I’m currently trying to improve in PyTorch, C++
-- 💞️ I’m looking to collaborate on cool drone projects
+- 💞️ I’m looking to collaborate on interesting drone projects
 - 📫 How to reach me E.lucassen@student.tudelft.nl
 
 <!---
